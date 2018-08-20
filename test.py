@@ -18,7 +18,7 @@ class Employee:
         return '{} {}'.format(self.first,self.last)
 
 
-for num in [1,2,3,4,5,6]:
+for num in [1,2,3,4,5,6,7,8,9,10]:
     print(num)
 
 emp_1=Employee('Jongyoon','Sohn')
