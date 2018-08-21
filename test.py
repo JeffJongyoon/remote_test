@@ -22,10 +22,15 @@ for num in [1,2,3,4,5,6,7,8,9,10]:
     print(num)
 
 emp_1=Employee('Jongyoon','Sohn')
+emp_2=Employee('Somebody','Else')
 
 print(emp_1.first)
 print(emp_1.last)
 print(emp_1.fullname)
 print(emp_1.email)
 
+print(emp_2.first)
+print(emp_2.last)
+print(emp_2.fullname)
+print(emp_2.email)
 
